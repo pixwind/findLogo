@@ -1,0 +1,10 @@
+[23-Oct-2015 05:29:27 Etc/GMT] PHP Warning:  file_get_contents(access_token.json): failed to open stream: No such file or directory in /home/a7ingodr/public_html/findLogo/index.php on line 35
+[23-Oct-2015 05:29:27 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/a7ingodr/public_html/findLogo/index.php on line 36
+[23-Oct-2015 05:29:27 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/a7ingodr/public_html/findLogo/index.php on line 42
+[23-Oct-2015 05:29:27 Etc/GMT] PHP Warning:  file_get_contents(jsapi_ticket.json): failed to open stream: No such file or directory in /home/a7ingodr/public_html/findLogo/index.php on line 52
+[23-Oct-2015 05:29:27 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/a7ingodr/public_html/findLogo/index.php on line 53
+[23-Oct-2015 05:29:27 Etc/GMT] PHP Warning:  Creating default object from empty value in /home/a7ingodr/public_html/findLogo/index.php on line 59
+[23-Oct-2015 14:48:24 Etc/GMT] PHP Notice:  Undefined index: access_token in /home/a7ingodr/public_html/findLogo/index.php on line 40
+[23-Oct-2015 14:48:25 Etc/GMT] PHP Notice:  Undefined index: ticket in /home/a7ingodr/public_html/findLogo/index.php on line 57
+[23-Oct-2015 14:48:25 Etc/GMT] PHP Notice:  Undefined index: access_token in /home/a7ingodr/public_html/findLogo/index.php on line 40
+[23-Oct-2015 14:48:27 Etc/GMT] PHP Notice:  Undefined index: ticket in /home/a7ingodr/public_html/findLogo/index.php on line 57
